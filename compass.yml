@@ -1,0 +1,13 @@
+name: lorca
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/bff6047e-b2a4-4347-8970-73c9ffe8d3d0
+description: Build cross-platform modern desktop apps in Go + HTML5
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
